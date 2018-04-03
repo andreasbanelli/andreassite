@@ -1,0 +1,15 @@
+element.style {
+}
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #5f94ad;
+    padding: 0 10px;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
